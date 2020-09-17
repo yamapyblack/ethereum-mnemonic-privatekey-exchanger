@@ -1,0 +1,21 @@
+{
+  "name": "ethereum-mnemonic-privatekey-exchanger",
+  "version": "1.0.0",
+  "description": "You can exchange mnemonic into privatekey or keystore. Also you can do privatekey to keystore.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamapyblack/ethereum-mnemonic-privatekey-exchanger.git"
+  },
+  "keywords": [
+    "ethereum",
+    "mnemonic"
+  ],
+  "author": "yamapyblack",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "ethereumjs-wallet": "^1.0.0",
+    "keythereum": "^1.0.4"
+  }
+}
